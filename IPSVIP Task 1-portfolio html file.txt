@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width" initial-scale="1.0">
+    <meta charset="UTF-8">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo">Portfolio</a>
+        <div class="toggle"></div>
+        <ul>
+            <li><a href="#HOME">HOME</a></li>
+            <li><a href="#ABOUT">ABOUT</a></li>
+            <li><a href="#SERVICES">SERVICES</a></li>
+            <li><a href="#WORK">WORK</a></li>
+            <li><a href="#TESTIMONIAL">TESTIMONIAL</a></li>
+            <li><a href="#CONTACT">CONTACT</a></li>
+        </ul>
+    </header>
+    <section class="background" id="HOME">
+        <div class="box">
+            <h2>Hello, I'm <br> <span>Poonam Nakti.</span></h2>
+            <h3>I am a Front-end Web Developer.</h3>
+            <a href="#" class="button">About Me</a>
+        </div>
+    </section>
+    <section class="About" id="ABOUT">
+        <div class="Intro">
+            <h2>About Me</h2>
+        </div>
+        <div class="content">
+            <div class="contentbox">
+                <h3>I am a Front-end Web Developer.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde odio similique ducimus quae repudiandae
+                    sapiente, optio nobis laudantium quasi praesentium ipsum esse beatae commodi tenetur veniam autem
+                    deleniti laborum expedita! Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis placeat
+                    animi cupiditate accusamus dignissimos consequuntur perspiciatis, voluptate soluta perferendis nemo
+                    dolores dolorum nisi tempore laudantium unde a excepturi quibusdam sapiente. <br><br> Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Dolore praesentium rerum blanditiis assumenda, a eos
+                    provident debitis. Ducimus natus, similique magnam ea adipisci aliquid, dolorem</p>
+            </div>
+            <div class="image">
+                <img src="sabri-tuzcu-wunVFNvqhfE-unsplash.jpg" class="img" width="400" height="300">
+
+            </div>
+        </div>
+    </section>
+    <section class="services" id="SERVICES">
+        <div class="Intro white">
+            <h3>Our Services</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A qui minus perspiciatis, itaque earum officiis
+                assumenda deserunt aliquam soluta modi quia autem illum ab, error placeat </p>
+        </div>
+        <div class="content">
+            <div class="servicesbox">
+                <img src="icon1.png">
+                <h2>Web design</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio hic ratione recusandae
+                    aperiam est quas, debitis fuga inventore, in at earum distinctio magnam, totam maiores laudantium
+                    esse voluptate! </p>
+            </div>
+            <div class="servicesbox">
+                <img src="icon2.png">
+                <h2>Web deveopment</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio hic ratione
+                    recusandae aperiam est quas, debitis fuga inventore, in at earum distinctio magnam, totam
+                    maiores laudantium esse voluptate! </p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="icon3.png">
+                <h2>photography</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio hic ratione
+                    recusandae aperiam est quas, debitis fuga inventore, in at earum distinctio magnam, totam
+                    maiores laudantium esse voluptate! </p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="icon4.png">
+                <h2>video editing</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio hic
+                    ratione recusandae aperiam est quas, debitis fuga inventore, in at earum distinctio
+                    magnam, totam maiores laudantium esse voluptate! </p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="icon5.png">
+                <h2>Android App</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio hic
+                    ratione recusandae aperiam est quas, debitis fuga inventore, in at earum distinctio
+                    magnam, totam maiores laudantium esse voluptate! </p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="icon6.png">
+                <h2>Android App</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repellendus odio
+                    hic ratione recusandae aperiam est quas, debitis fuga inventore, in at earum
+                    distinctio magnam, totam maiores laudantium esse voluptate! </p>
+            </div>
+        </div>
+
+    </section>
+    <section class="work" id="WORK">
+        <div class="Intro">
+            <h2>Our Latest Work</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A qui minus perspiciatis, itaque earum officiis
+            </p>
+        </div>
+        <div class="content">
+            <div class="workbox">
+                <img src="pexels-lukas-590016.jpg">
+            </div>
+            <div class="workbox">
+                <img src="pexels-mohammad-danish-891059.jpg">
+            </div>
+            <div class="workbox">
+                <img src="pexels-ylanite-koppens-796602.jpg">
+            </div>
+            <div class="workbox">
+                <img src="pexels-vojtech-okenka-392018.jpg">
+            </div>
+
+        </div>
+        <div class="Intro">
+            <a href="#" class="button">View more</a>
+        </div>
+
+    </section>
+    <section class="Testimonial" id="TESTIMONIAL">
+        <div class="Intro">
+            <h2>Testimonial</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A qui minus perspiciatis, itaque earum officiis
+            </p>
+        </div>
+        <div class="content">
+            <div class="Testimonialbox">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellat repudiandae, dolor
+                    architecto, vero saepe aliquam voluptas possimus dolorem, blanditiis consectetur excepturi rem.
+                    Natus asperiores optio maiores, cum in nulla.</p>
+                <h3>Someone famous <br><span>Creative Designer</span></h3>
+            </div>
+            <div class="Testimonialbox">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellat repudiandae, dolor
+                    architecto, vero saepe aliquam voluptas possimus dolorem, blanditiis consectetur excepturi rem.
+                    Natus asperiores optio maiores, cum in nulla.</p>
+                <h3>Someone famous <br><span>Creative Designer</span></h3>
+            </div>
+        </div>
+
+    </section>
+    <section class="contact" id="CONTACT">
+        <div class="Intro">
+            <h3>Contact Me</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A qui minus</p>
+        
+        </div>
+
+        <div class="content">
+            <div class="contactbox">
+                <h3>Contact Info</h3>
+                <div class="contactboxinfo">
+                    <div class="box">
+                        <div class="icon">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Adress</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Illum a soluta obcaecati eligendi </p>
+                        </div>
+                    </div>  
+                    <div class="box">
+                        <div class="icon">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Phone</h3>
+                        <p>17663245273</p>
+                        </div>  
+                       </div>
+                       <div class="box">
+                        <div class="icon">
+                            <i class="fa fa-envelope-o"></i>
+                        </div>
+                        <div class="text">
+                            <h3>Email</h3>
+                        <p>poonamnakti@gmail.com</p>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+            <div class="formbx">
+                <form>
+                    <h3>Message me</h3>
+                    <input type="text" name="" placeholder="Full name">
+                    <input type="email" name="" placeholder="Email">
+                    <textarea placeholder="Your message"></textarea>
+                    <input type="submit" value="Send">
+
+                </form>
+            </div>
+
+    </section>
+    <div class="copyright">
+        <p>Copyright @ 2022. All rights reserved</p>
+
+    </div>
+    <script type="text/javascript">
+
+        window.addEventListener('scroll', function () {
+            var header = document.querySelector('header');
+            header.classList.toggle('sticky', window.scrollY > 0);
+        });
+
+
+    </script>
+</body>
+
+</html>
