@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width" initial-scale="1.0">
+    <meta charset="UTF-8">
+    <title>Fashionstore</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo">Fashionstore</a>
+        <div class="toggle"></div>
+        <ul>
+            <li><a href="#HOME">Home</a></li>
+            <li><a href="#PRODUCTS">Products</a></li>
+            <li><a href="#ABOUT">About</a></li>
+            <li><a href="#CONTACT">Contact</a></li>
+            <li><a href="#TESTIMONIAL">Account</a></li>
+            <i class="fa fa-shopping-bag"></i>
+            <i class="fa fa-heart-o"></i>
+        </ul>
+    </header>
+    <section class="background" id="HOME">
+        <div class="box">
+            <h2>The Joy of Dressing is <br> an Art!</h2>
+            <p> Is not necessarily about labels. It's not about brands. <br> It's about something else that comes from
+                within you.</p>
+            <a href="#" class="button">Shop Now &#8594;</a>
+        </div>
+    </section>
+
+    <section class="services" id="PRODUCTS">
+        <div class="Intro">
+            <h3>Unbelievable Deals</h3>
+        </div>
+        <div class="content">
+            <div class="servicesbox">
+                <img src="pexels-burst-545066.jpg">
+                <h2>Watches</h2>
+                <p> Flat 30% off </p>
+            </div>
+            <div class="servicesbox">
+                <img src="pexels-oswald-elsaboath-10027119.jpg">
+                <h2>Men Fashion</h2>
+                <p>Up to 60% off</p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="pexels-andrea-yurko-982585.jpg">
+                <h2>Women Fashion</h2>
+                <p>Starting $39</p>
+            </div>
+
+            <div class="servicesbox">
+                <img src="pexels-the-glorious-studio-7541809.jpg">
+                <h2>Diamond Collection</h2>
+                <p>30-60% off</p>
+            </div>
+        </div>
+
+    </section>
+    <section class="work">
+        <div class="Intro">
+            <h2>Featured Products</h2>
+        </div>
+        <div class="content">
+            <div class="workbox">
+                <img src="pexels-pixabay-265705.jpg">
+                <h4>Gown</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$60.52</p>
+            </div>
+            <div class="workbox">
+                <img src="pexels-terje-sollie-298863.jpg">
+                <h4>Shirt Pant</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$50.52</p>
+            </div>
+            <div class="workbox">
+                <img src="pexels-ylanite-koppens-934070.jpg">
+                <h4>Winter wear</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$55.52</p>
+            </div>
+            <div class="workbox">
+                <img src="pexels-marcelo-chagas-2229490.jpg">
+                <h4>Denim collection</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$65.52</p>
+            </div>
+            <h2>Latest products</h2>
+            <div class="workbox">
+                <img src="pexels-olya-kobruseva-4544816.jpg">
+                <h4>Diamond Jewellery</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$65.52</p>
+            </div>
+            <div class="workbox">
+                <img src="pexels-pixabay-47856.jpg">
+                <h4>Watches</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$65.52</p>
+            </div>
+
+            <div class="workbox">
+                <img src="pexels-melvin-buezo-2529148.jpg">
+                <h4>Black Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>$65.52</p>
+            </div>
+
+
+        </div>
+        <div class="Work-button">
+            <a href="#" class="btn">View More &#8594;</a>
+        </div>
+
+    </section>
+    </section>
+    <section class="offer">
+        <div class="Intro">
+            <h1>Exclusively available on FashionStore</h1>
+            <h3>SMART WATCHES</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis praesentium <br>rem ipsum beatae
+                fugit possimus molestias omnis excepturi placeat labore dolor alias .</p>
+            <a href="#" class="button">Shop Now &#8594;</a>
+
+        </div>
+
+    </section>
+    <section class="Testimonial">
+        <div class="Intro">
+        </div>
+        <div class="content">
+            <div class="Testimonialbox">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Soluta repellat repudiandae,<br> dolor
+                    excepturi rem.
+                    Natus asperiores optio <br> maiores, cum in nulla.excepturi rem.
+
+                    architecto,</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <img src="pexels-mentatdgt-1024311.jpg">
+                <h3>Poonam Nakti</h3>
+            </div>
+            <div class="Testimonialbox">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Soluta repellat repudiandae,<br> dolor
+                    excepturi rem.
+                    Natus asperiores optio <br> maiores, cum in nulla.excepturi rem.
+
+                    architecto,</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <img src="pexels-andrea-piacquadio-774909.jpg">
+                <h3>Neha Malik</h3>
+            </div>
+            <div class="Testimonialbox">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Soluta repellat repudiandae,<br> dolor
+                    excepturi rem.
+                    Natus asperiores optio <br> maiores, cum in nulla.excepturi rem.
+
+                    architecto,</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <img src="pexels-pixabay-220453.jpg">
+                <h3>Shree Paar</h3>
+            </div>
+        </div>
+    </section>
+    <section class="contact">
+        <div class="footer">
+
+            <div class="content">
+                <div class="contactbox1">
+                    <h3>Download the App</h3>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <div class="App-logo">
+                        <img src="apple store.png">
+                        <img src="images.jpg">
+
+                    </div>
+                </div>
+                <div class="contactbox2">
+                    <a href="#" class="logo">Fashionstore</a>
+                    <p>Lorem, ipsum dolor sit amet <br> consectetur adipisicing elit Lorem ipsum dolor sit, amet <br>
+                        consectetur adipisicing elit. Ad doloremque odit sunt perspiciatism?.</p>
+                </div>
+                <div class="contactbox3">
+                    <h3>Usefull Links</h3>
+                    <ul>
+                        <li>Coupons</li>
+                        <li>Blog post</li>
+                        <li>Return Policy</li>
+                        <li>Join Affiliate</li>
+                    </ul>
+                </div>
+                <div class="contactbox4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instagram</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+
+    </section>
+    <div class="copyright">
+        <hr>
+        <p>Copyright @ 2022. All rights reserved</p>
+    </div>
+    <script type="text/javascript">
+
+        window.addEventListener('scroll', function () {
+            var header = document.querySelector('header');
+            header.classList.toggle('sticky', window.scrollY > 0);
+        });
+
+
+    </script>
+</body>
+
+</html>
